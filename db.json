@@ -1,0 +1,30 @@
+{
+    "usuarios": [
+      
+      { "id": 1, 
+      "nombre": "Arturo", 
+      "contrasena": "1234", 
+      "nivel": "usuario" },
+
+      { "id": 2, 
+      "nombre": "Victor", 
+      "contrasena": "1234", 
+      "nivel": "usuario" },
+
+      { "id": 3, 
+      "nombre": "Pablo", 
+      "contrasena": "1234", 
+      "nivel": "usuario" },
+
+      { "id": 4, 
+      "nombre": "Juan", 
+      "contrasena": "1234", 
+      "nivel": "Admin" },
+
+      { "id": 5, 
+      "nombre": "Edu", 
+      "contrasena": "1234", 
+      "nivel": "Admin" }
+      
+    ]
+  }
